@@ -1,0 +1,78 @@
+.social-container {
+  background-color: rgb(50, 11, 11);
+  text-align: center;
+}
+.social-container h1 {
+  color: white;
+}
+.social-container small {
+  color: aliceblue;
+}
+.social-container img {
+  background-color: aliceblue;
+  width: 40px;
+}
+.social-container p {
+  color: white;
+}
+.social-container button {
+  height: 50px;
+  font-size: 16;
+  font-weight: 700;
+  border: none;
+  margin: auto;
+  width: 50%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: block;
+}
+.login-heading {
+  text-align: center;
+  color: aliceblue;
+  margin-top: 30px;
+}
+.login-container {
+  text-align: center;
+}
+.login-container form {
+  margin-top: 15px;
+}
+
+.login-container form input {
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  font-weight: 700px;
+  color: aliceblue;
+  margin: auto;
+  background-color: rgb(23, 11, 11);
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 10px;
+}
+.login-container form button {
+  width: 75%;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(194, 17, 17);
+  color: aliceblue;
+  font-size: 25px;
+  border: none;
+  border-radius: 10px;
+}
+.login-container form button:hover {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgba(169, 14, 50, 0.797);
+  color: aliceblue;
+}
+.logo {
+  display: flex;
+  color: rgb(21, 20, 20);
+  margin-left: 2px;
+  font-size: 10px;
+}
+.row {
+  margin: auto;
+}

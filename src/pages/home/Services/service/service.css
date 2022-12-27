@@ -1,0 +1,21 @@
+.card {
+  border: none;
+  box-shadow: 0px 0px 5px rgb(221, 205, 205);
+}
+
+.order-btn {
+  width: 100%;
+  margin-top: 15px;
+  border: none;
+  height: 40px;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 700px;
+  background-color: #ff824a;
+  border-radius: 10px;
+}
+.link {
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: 700px;
+}

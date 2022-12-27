@@ -1,0 +1,40 @@
+.containerbanner {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  color: rgb(226, 204, 204);
+}
+.containerbanner .heading-title {
+  font-size: 80px;
+  color: rgb(208, 157, 27);
+}
+
+.containerbanner .heading-title:hover {
+  font-size: 80px;
+  transition: all 1s ease-out;
+  color: wheat;
+  margin-right: 15px;
+}
+.sub-title {
+  color: #84cdc8;
+}
+.sub-title:hover {
+  font-size: 30px;
+  transition: all 1s ease-out;
+  color: rgb(116, 115, 112);
+  margin-top: 10px;
+}
+h5 {
+  color: deeppink;
+}
+
+.details {
+  font-size: 30px;
+}
+.details:hover {
+  font-size: 30px;
+  transition: all 1s ease-out;
+  color: rgb(116, 115, 112);
+  margin-left: 15px;
+}

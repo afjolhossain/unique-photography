@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Photography & Video",
+    "discription": "Apart from the best ever professional photographer we’re artists, to beautify amazing memories from events!",
+    "img": "https://i.ibb.co/xSC5rbT/camera-1.png"
+  },
+  {
+    "id": 2,
+    "name": " Wedding Registry",
+    "discription": "Receive the your wedding gifts are you want from your friends and relatives including cash gifts. Add products!",
+    "img": "https://i.ibb.co/DgvhGgr/weding-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Wedding Ceremony",
+    "discription": "Every wedding has a story to tell. It can be chosen based on your heritage & culture, on your life story!",
+    "img": "https://i.ibb.co/m0pHBkG/Ceremony-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Seating Chart",
+    "discription": "There are so many aspects to take it and look into consideration. We know would worry how our guests be treated!",
+    "img": "https://i.ibb.co/JHNj1CG/Chart-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Vendor Manager",
+    "discription": "A complete wedding service, including strong focus on vendor selection and management on board hassle free!",
+    "img": "https://i.ibb.co/3F3pFkv/Vendor-5.png"
+  },
+  {
+    "id": 6,
+    "name": "The Perfect Cake",
+    "discription": "Food and drinks are very important and integral parts of our Indian weddings. Provide would be able to cater!",
+    "img": "https://i.ibb.co/jwrV6KJ/Cake-6.png"
+  }
+]

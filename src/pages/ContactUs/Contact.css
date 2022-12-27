@@ -1,0 +1,27 @@
+.contact-container {
+  background-image: linear-gradient(
+    to right top,
+    #fb1899,
+    #e74dbc,
+    #ce6cd6,
+    #b284e6,
+    #9996ec,
+    #83a4f5,
+    #6eb1f9,
+    #5fbdf9,
+    #33ccff,
+    #00dbfd,
+    #00e8f5,
+    #19f4e6
+  );
+  text-align: center;
+}
+.from {
+  padding: 80px;
+}
+.from h1 {
+  color: white;
+}
+.from h1 small {
+  color: white;
+}
