@@ -4,9 +4,9 @@ import "./Ourservices.css";
 const OurServices = () => {
   return (
     <div className="row service">
-      <div className="col-lg-6 col-sm-12">
+      <div className="col-lg-6 col-sm-12 img">
         <img
-          style={{ margin: "auto", width: "100%" }}
+          style={{ margin: "auto", width: "75%" }}
           src="http://www.themetechmount.in/html/wedco/images/single-img-04.jpg"
           alt=""
         />

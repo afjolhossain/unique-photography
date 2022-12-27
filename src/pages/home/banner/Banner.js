@@ -12,6 +12,7 @@ const Banner = () => {
   return (
     <div style={LoginBG}>
       <div className="containerbanner" sx={12}>
+        <br />
         <p className="heading-title">welcome To Unique</p>
         <h3 className="sub-title">
           We Promise, We Provide Quality Services For You{" "}

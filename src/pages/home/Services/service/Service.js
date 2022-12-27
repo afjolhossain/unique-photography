@@ -16,20 +16,10 @@ const Service = ({ service }) => {
         <Card.Body style={{ textAlign: "center" }}>
           <Card.Title>{name}</Card.Title>
           <Card.Text>{discription}</Card.Text>
-          <hr
-            style={{
-              width: "100px",
-              margin: "auto",
-              backgroundColor: "#FF824A",
-              height: "3px",
-            }}
-          ></hr>
 
-          <button className="order-btn">
-            <Link className="link" to={`/service/:` + id}>
-              order
-            </Link>
-          </button>
+          <Link className="Link as button" to={`/service/:` + id}>
+            order
+          </Link>
         </Card.Body>
       </Card>
     </Col>
